@@ -17,6 +17,7 @@ function App() {
 
   return (
     <div>
+      <Navigation/>
 
       <div className='cards__section'>
 
